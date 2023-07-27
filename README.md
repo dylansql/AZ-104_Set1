@@ -10,3 +10,5 @@ The objective of this series is to document my journey for the preparation of th
 
 
 ### Azure Concepts 
+
+
